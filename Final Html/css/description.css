@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: #d1d4de;
+}
+.heading{
+    background-color: #252957;
+    text-align: center;
+    padding: 16px;
+}
+
+.heading-text{
+    padding: 16px;
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+.front-img{
+    height: 350px;
+    width: 100%;
+}
+
+.para{
+    margin: 24px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.para p{
+    font-size: 18px;
+}
