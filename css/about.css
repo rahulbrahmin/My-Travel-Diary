@@ -1,0 +1,19 @@
+.personal{
+    text-align: right;
+    margin-right: 15px;
+}
+body{
+    margin: 0;
+    background-color: #d1d4de;
+}
+.heading{
+    background-color: #252957;
+    text-align: center;
+    padding: 16px;
+}
+
+.heading-text{
+    padding: 16px;
+    color: whitesmoke;
+    font-size: 18px;
+}
